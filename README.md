@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @aae
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on c#
+A total python skid
+I skid rip xbox and instagram tools
+Eat Ham Not Me!
 
-<!---
-aae/aae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Instagram: @klg
+Discord: der#0999
